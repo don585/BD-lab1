@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <data>
+    <product id="1">
+      <name>&#13;
+	    Asus N552VW (N552VW-FI127T) Warm Gray	    </name>
+      <price>&#13;
+                36 431            </price>
+      <image>/upload/iblock/891/891221eb59e2_detail.jpg</image>
+    </product>
+    <product id="2">
+      <name>&#13;
+	    Lenovo IdeaPad 700 (80RU0081UA)	    </name>
+      <price>&#13;
+                22 999            </price>
+      <image>/upload/iblock/51d/51d8c35e7605_detail.jpg</image>
+    </product>
+    <product id="3">
+      <name>&#13;
+	    Dell Inspiron 7559 (I757810NDW-46)	    </name>
+      <price>&#13;
+                29 200            </price>
+      <image>/upload/iblock/ab6/ab661c84a452_detail.jpg</image>
+    </product>
+    <product id="4">
+      <name>&#13;
+	    Asus X555LB (X555LB-DM142D) Dark Brown	    </name>
+      <price>&#13;
+                22 751            </price>
+      <image>/upload/iblock/9ac/9acaa5001420_detail.jpg</image>
+    </product>
+    <product id="5">
+      <name>&#13;
+	    Asus GX700VO (GX700VO-GC009T) Grey	    </name>
+      <price>&#13;
+                127 333            </price>
+      <image>/upload/iblock/1a3/1a35abceb170_detail.jpg</image>
+    </product>
+    <product id="6">
+      <name>&#13;
+	    Dell Inspiron 7559 (I7571610NDW-47)	    </name>
+      <price>&#13;
+                34 113            </price>
+      <image>/upload/iblock/23b/23bdae45fa26_detail.jpg</image>
+    </product>
+    <product id="7">
+      <name>&#13;
+	    Lenovo IdeaPad Y700-15ISK (80NV00Y1RA)	    </name>
+      <price>&#13;
+                33 599            </price>
+      <image>/upload/iblock/fbe/fbef6b041aee_detail.jpg</image>
+    </product>
+    <product id="8">
+      <name>&#13;
+	    Asus N552VW (N552VW-FY238T) Warm Gray	    </name>
+      <price>&#13;
+                42 824            </price>
+      <image>/upload/iblock/a2e/a2e207ccac71_detail.jpg</image>
+    </product>
+    <product id="9">
+      <name>&#13;
+	    Asus UX501VW (UX501VW-FY063T) Dark Gray	    </name>
+      <price>&#13;
+                38 999            </price>
+      <image>/upload/iblock/ad7/ad78d3309509_detail.jpg</image>
+    </product>
+    <product id="10">
+      <name>&#13;
+	    HP ENVY 17-n109ur (V2H27EA)	    </name>
+      <price>&#13;
+                33 897            </price>
+      <image>/upload/iblock/3e0/3e0d42baf863_detail.jpg</image>
+    </product>
+    <product id="11">
+      <name>&#13;
+	    Asus G501JW (G501JW-FI407T) Black	    </name>
+      <price>&#13;
+                58 681            </price>
+      <image>/upload/iblock/454/4541c915917b_detail.jpg</image>
+    </product>
+    <product id="12">
+      <name>&#13;
+	    Asus UX501VW (UX501VW-FI060R) Gray	    </name>
+      <price>&#13;
+                40 777            </price>
+      <image>/upload/iblock/3f1/3f15e45b14eb_detail.jpg</image>
+    </product>
+  </data>
+</root>
+
